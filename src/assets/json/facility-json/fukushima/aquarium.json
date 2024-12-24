@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fukushima-aqua-1",
+    "type": "aquarium",
+    "name": "アクアマリンふくしま",
+    "prefecture": "福島県",
+    "postCode": "971-8101",
+    "address": "福島県いわき市小名浜辰巳町50",
+    "city": "いわき",
+    "image": "",
+    "url": "https://www.aquamarine.or.jp/",
+    "latlng": "[36.9423933, 140.900465]",
+    "lat": 36.9423933,
+    "lng": 140.900465,
+    "isClosed": ""
+  }
+]

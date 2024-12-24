@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gunma-aqua-1",
+    "type": "aquarium",
+    "name": "道の駅 みなかみ水紀行館",
+    "prefecture": "群馬県",
+    "postCode": "379-1617",
+    "address": "群馬県利根郡みなかみ町湯原1681-1",
+    "city": "みなかみ",
+    "image": "",
+    "url": "https://www.kanto-michinoeki.jp/map_single.php?id_name=2&single_name=6",
+    "latlng": "[36.764846335873884,138.96831009232045]",
+    "lat": 36.7648463358738,
+    "lng": 138.96831009232,
+    "isClosed": ""
+  }
+]

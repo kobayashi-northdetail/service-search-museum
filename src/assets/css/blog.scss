@@ -1,0 +1,18 @@
+.blog-contents {
+  * {
+    font-family: 'M PLUS 1', sans-serif !important;
+  }
+}
+
+#blog-body {
+  * {
+    line-height: 1.9rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+    margin: 80px 0 30px;
+    @media (min-width: 900px) {
+      font-size: 1.3rem;
+    }
+  }
+}

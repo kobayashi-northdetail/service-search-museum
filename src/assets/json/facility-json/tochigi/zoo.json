@@ -1,0 +1,17 @@
+[
+  {
+    "id": "tochigi-zoo-1",
+    "type": "zoo",
+    "name": "宇都宮動物園",
+    "prefecture": "栃木県",
+    "postCode": "321-2115",
+    "address": "栃木県宇都宮市上金井町552−2",
+    "city": "うつのみや",
+    "image": "",
+    "url": "https://utsunomiya-zoo.com/",
+    "latlng": "[36.63303046157656, 139.8532977820774]",
+    "lat": 36.6330304615765,
+    "lng": 139.853297782077,
+    "isClosed": ""
+  }
+]

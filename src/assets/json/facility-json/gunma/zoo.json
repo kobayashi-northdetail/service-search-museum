@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gunma-zoo-1",
+    "type": "zoo",
+    "name": "桐生が岡動物園",
+    "prefecture": "群馬県",
+    "postCode": "376-0056",
+    "address": "群馬県桐生市宮本町3-8-13",
+    "city": "きりゅう",
+    "image": "",
+    "url": "http://www.city.kiryu.gunma.jp/web/home.nsf/10721ebeb31f439e492568f9002e676c/38fcba59527dd68349257110000b5cf4?OpenDocument",
+    "latlng": "[36.4198261, 139.3395598]",
+    "lat": 36.4198261,
+    "lng": 139.3395598,
+    "isClosed": ""
+  },
+  {
+    "id": "gunma-zoo-2",
+    "type": "zoo",
+    "name": "群馬サファリパーク",
+    "prefecture": "群馬県",
+    "postCode": "370-2321",
+    "address": "群馬県富岡市岡本1",
+    "city": "とみおか",
+    "image": "",
+    "url": "https://www.safari.co.jp/",
+    "latlng": "[36.2266745, 138.8851421]",
+    "lat": 36.2266745,
+    "lng": 138.8851421,
+    "isClosed": ""
+  }
+]

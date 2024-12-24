@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ibaraki-zoo-1",
+    "type": "zoo",
+    "name": "日立市かみね動物園",
+    "prefecture": "茨城県",
+    "postCode": "317-0055",
+    "address": "茨城県日立市宮田町5丁目2−22",
+    "city": "ひたち",
+    "image": "",
+    "url": "https://www.city.hitachi.lg.jp/zoo/",
+    "latlng": "[36.6101064, 140.6555834]",
+    "lat": 36.6101064,
+    "lng": 140.6555834,
+    "isClosed": ""
+  },
+  {
+    "id": "ibaraki-zoo-2",
+    "type": "zoo",
+    "name": "霞ケ浦 どうぶつとみんなのいえ",
+    "prefecture": "茨城県",
+    "postCode": "311-3512",
+    "address": "茨城県行方市玉造甲1234",
+    "city": "なめがた",
+    "image": "",
+    "url": "https://doubutsutominna.jp/",
+    "latlng": "[36.0964428, 140.4028424]",
+    "lat": 36.0964428,
+    "lng": 140.4028424,
+    "isClosed": ""
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fukushima-zoo-1",
+    "type": "zoo",
+    "name": "東北サファリパーク",
+    "prefecture": "福島県",
+    "postCode": "964-0088",
+    "address": "福島県二本松市沢松倉一番地",
+    "city": "にほんまつ",
+    "image": "",
+    "url": "http://tohoku-safaripark.co.jp/",
+    "latlng": "[37.6389354, 140.3661367]",
+    "lat": 37.6389354,
+    "lng": 140.3661367,
+    "isClosed": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tokyo-aqua-1",
+    "type": "aquarium",
+    "name": "すみだ水族館",
+    "prefecture": "東京都",
+    "postCode": "131-0045",
+    "address": "東京都墨田区押上1丁目1-2 東京スカイツリータウン・ソラマチ 5階～6階",
+    "city": "すみだ",
+    "image": "/img/tokyo/tsumida-aquarium.jpg",
+    "url": "https://www.sumida-aquarium.com/index.html",
+    "latlng": "[35.7102333, 139.8115747]",
+    "lat": "35.7102333",
+    "lng": "139.8115747",
+    "isClosed": ""
+  },
+  {
+    "id": "tokyo-aqua-2",
+    "type": "aquarium",
+    "name": "葛西臨海水族園",
+    "prefecture": "東京都",
+    "postCode": "134-8587",
+    "address": "東京都江戸川区臨海町６丁目２−３",
+    "city": "えどがわ",
+    "image": "/img/tokyo/tokyo-sea-life-park.jpg",
+    "url": "https://www.tokyo-zoo.net/zoo/kasai/",
+    "latlng": "[35.64005770000001, 139.8622571]",
+    "lat": "35.6400577",
+    "lng": "139.8622571",
+    "isClosed": ""
+  }
+]

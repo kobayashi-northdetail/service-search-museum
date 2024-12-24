@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gifu-art-1",
+    "type": "art",
+    "name": "岐阜県美術館",
+    "prefecture": "岐阜県",
+    "postCode": "500-8368",
+    "address": "岐阜県岐阜市宇佐4丁目1−1−22",
+    "city": "ぎふ",
+    "image": "",
+    "url": "https://kenbi.pref.gifu.lg.jp/",
+    "latlng": "[35.4011642, 136.7300199]",
+    "lat": 35.4011642,
+    "lng": 136.7300199,
+    "isClosed": ""
+  },
+  {
+    "id": "gifu-art-2",
+    "type": "art",
+    "name": "岐阜市歴史博物館分館　加藤栄三・東一記念美術館",
+    "prefecture": "岐阜県",
+    "postCode": "500-8003",
+    "address": "岐阜県岐阜市大宮町1丁目46 岐阜公園内",
+    "city": "ぎふ",
+    "image": "",
+    "url": "https://www.rekihaku.gifu.gifu.jp/katoukinen/",
+    "latlng": "[35.4347882, 136.7747822]",
+    "lat": 35.4347882,
+    "lng": 136.7747822,
+    "isClosed": ""
+  },
+  {
+    "id": "gifu-art-3",
+    "type": "art",
+    "name": "三甲美術館",
+    "prefecture": "岐阜県",
+    "postCode": "502-0071",
+    "address": "岐阜県岐阜市長良3535",
+    "city": "ぎふ",
+    "image": "",
+    "url": "https://sanko-museum.or.jp/",
+    "latlng": "[35.4448017, 136.7905974]",
+    "lat": 35.4448017,
+    "lng": 136.7905974,
+    "isClosed": ""
+  },
+  {
+    "id": "gifu-art-4",
+    "type": "art",
+    "name": "岐阜県現代陶芸美術館",
+    "prefecture": "岐阜県",
+    "postCode": "507-0801",
+    "address": "岐阜県多治見市東町4丁目-2-5",
+    "city": "たじみ",
+    "image": "",
+    "url": "https://www.cpm-gifu.jp/museum/",
+    "latlng": "[35.3315766, 137.1557468]",
+    "lat": 35.3315766,
+    "lng": 137.1557468,
+    "isClosed": ""
+  }
+]

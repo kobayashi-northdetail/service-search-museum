@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ibaraki-aqua-1",
+    "type": "aquarium",
+    "name": "アクアワールド茨城県大洗水族館",
+    "prefecture": "茨城県",
+    "postCode": "311-1301",
+    "address": "茨城県東茨城郡大洗町磯浜町8252−3",
+    "city": "おおあらい",
+    "image": "",
+    "url": "https://www.aquaworld-oarai.com/",
+    "latlng": "[36.333486, 140.5939212]",
+    "lat": 36.333486,
+    "lng": 140.5939212,
+    "isClosed": ""
+  },
+  {
+    "id": "ibaraki-aqua-2",
+    "type": "aquarium",
+    "name": "かすみがうら市水族館",
+    "prefecture": "茨城県",
+    "postCode": "300-0214",
+    "address": "茨城県かすみがうら市坂910-1",
+    "city": "かすみがうら",
+    "image": "",
+    "url": "http://park.geocities.jp/tkytp289/",
+    "latlng": "[36.0716045, 140.3760379]",
+    "lat": 36.0716045,
+    "lng": 140.3760379,
+    "isClosed": ""
+  }
+]

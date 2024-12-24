@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kochi-art-1",
+    "type": "art",
+    "name": "安芸市立書道美術館",
+    "prefecture": "高知県",
+    "postCode": "784-0042",
+    "address": "高知県安芸市土居953−イ",
+    "city": "あき",
+    "image": "",
+    "url": "https://www.city.aki.kochi.jp/life/dtl.php?hdnKey=49",
+    "latlng": "[33.5194592, 133.9132551]",
+    "lat": 33.5194592,
+    "lng": 133.9132551,
+    "isClosed": ""
+  },
+  {
+    "id": "kochi-art-2",
+    "type": "art",
+    "name": "高知県立美術館",
+    "prefecture": "高知県",
+    "postCode": "781-8123",
+    "address": "高知県高知市高須353−2",
+    "city": "こうち",
+    "image": "",
+    "url": "https://moak.jp/",
+    "latlng": "[33.561013, 133.573384]",
+    "lat": 33.561013,
+    "lng": 133.573384,
+    "isClosed": ""
+  },
+  {
+    "id": "kochi-art-3",
+    "type": "art",
+    "name": "香美市立美術館",
+    "prefecture": "高知県",
+    "postCode": "782-0047",
+    "address": "高知県香美市土佐山田町262−1",
+    "city": "かみ",
+    "image": "",
+    "url": "https://www.city.kami.lg.jp/site/bijutukan/",
+    "latlng": "[33.6105665, 133.6877114]",
+    "lat": 33.6105665,
+    "lng": 133.6877114,
+    "isClosed": ""
+  }
+]

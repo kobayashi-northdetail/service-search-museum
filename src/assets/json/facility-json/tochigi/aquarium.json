@@ -1,0 +1,17 @@
+[
+  {
+    "id": "tochigi-aqua-1",
+    "type": "aquarium",
+    "name": "栃木県なかがわ水遊園",
+    "prefecture": "栃木県",
+    "postCode": "324-0404",
+    "address": "栃木県大田原市佐良土2686",
+    "city": "おおたわら",
+    "image": "",
+    "url": "https://www.pref.tochigi.lg.jp/g02/h30suiyu-en/suiyu-en.html",
+    "latlng": "[36.79081920696069, 140.128634]",
+    "lat": 36.7908192069606,
+    "lng": 140.128634,
+    "isClosed": ""
+  }
+]

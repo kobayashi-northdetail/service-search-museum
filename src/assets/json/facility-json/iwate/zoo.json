@@ -1,0 +1,17 @@
+[
+  {
+    "id": "iwate-zoo-1",
+    "type": "zoo",
+    "name": "盛岡市動物公園",
+    "prefecture": "岩手県",
+    "postCode": "020-0803",
+    "address": "岩手県盛岡市新庄下八木田60-18",
+    "city": "もりおか",
+    "image": "",
+    "url": "http://moriokazoo.org/",
+    "latlng": "[39.6971491, 141.1946163]",
+    "lat": 39.6971491,
+    "lng": 141.1946163,
+    "isClosed": ""
+  }
+]

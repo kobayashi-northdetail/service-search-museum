@@ -1,0 +1,17 @@
+[
+  {
+    "id": "wakayama-art-1",
+    "type": "art",
+    "name": "和歌山県立近代美術館",
+    "prefecture": "和歌山県",
+    "postCode": "640-8137",
+    "address": "和歌山県和歌山市吹上1丁目4−14",
+    "city": "わかやま",
+    "image": "",
+    "url": "https://www.momaw.jp/",
+    "latlng": "[34.2250362, 135.171417]",
+    "lat": 34.2250362,
+    "lng": 135.171417,
+    "isClosed": ""
+  }
+]

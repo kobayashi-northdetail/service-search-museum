@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kumamoto-art-1",
+    "type": "art",
+    "name": "芦北町立星野富弘美術館",
+    "prefecture": "熊本県",
+    "postCode": "869-5563",
+    "address": "熊本県葦北郡芦北町湯浦1439−2",
+    "city": "あしきた",
+    "image": "",
+    "url": "http://hoshino-museum.com/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  },
+  {
+    "id": "kumamoto-art-2",
+    "type": "art",
+    "name": "湯前まんが美術館",
+    "prefecture": "熊本県",
+    "postCode": "868-0621",
+    "address": "熊本県球磨郡湯前町上里1834−1",
+    "city": "ゆのまえ",
+    "image": "",
+    "url": "https://yunomae-manga.com/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  },
+  {
+    "id": "kumamoto-art-3",
+    "type": "art",
+    "name": "熊本県立美術館",
+    "prefecture": "熊本県",
+    "postCode": "860-0008",
+    "address": "熊本県熊本市中央区二の丸2",
+    "city": "くまもと",
+    "image": "",
+    "url": "https://www.pref.kumamoto.jp/site/museum/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  },
+  {
+    "id": "kumamoto-art-4",
+    "type": "art",
+    "name": "島田美術館",
+    "prefecture": "熊本県",
+    "postCode": "860-0073",
+    "address": "熊本県熊本市西区島崎4丁目5−28",
+    "city": "くまもと",
+    "image": "",
+    "url": "https://www.shimada-museum.net/index.php",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  }
+]

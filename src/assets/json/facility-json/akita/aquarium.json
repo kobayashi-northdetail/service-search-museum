@@ -1,0 +1,17 @@
+[
+  {
+    "id": "akita-aqua-1",
+    "type": "aquarium",
+    "name": "秋田県男鹿水族館 GAO",
+    "prefecture": "秋田県",
+    "postCode": "010-0673",
+    "address": "秋田県男鹿市戸賀塩浜壷ヶ沢",
+    "city": "おが ",
+    "image": "",
+    "url": "https://www.gao-aqua.jp/",
+    "latlng": "[39.9428924, 139.7056739]",
+    "lat": 39.9428924,
+    "lng": 139.7056739,
+    "isClosed": ""
+  }
+]

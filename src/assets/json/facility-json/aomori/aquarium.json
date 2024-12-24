@@ -1,0 +1,17 @@
+[
+  {
+    "id": "aomori-aqua-1",
+    "type": "aquarium",
+    "name": "青森県営浅虫水族館",
+    "prefecture": "青森県",
+    "postCode": "039-3501",
+    "address": "青森県青森市浅虫馬場山1-25",
+    "city": "あさむし",
+    "image": "",
+    "url": "http://www.asamushi-aqua.com/",
+    "latlng": "[40.89756149999999, 140.8627983]",
+    "lat": 40.89756149999999,
+    "lng": 140.8627983,
+    "isClosed": ""
+  }
+]

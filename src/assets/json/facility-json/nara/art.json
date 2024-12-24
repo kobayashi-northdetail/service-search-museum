@@ -1,0 +1,62 @@
+[
+  {
+    "id": "nara-art-1",
+    "type": "art",
+    "name": "喜多美術館",
+    "prefecture": "奈良県",
+    "postCode": "633-0002",
+    "address": "奈良県桜井市金屋 金屋730",
+    "city": "さくらい",
+    "image": "",
+    "url": "http://www13.plala.or.jp/kita-museum/",
+    "latlng": "[34.5247092, 135.8539069]",
+    "lat": 34.5247092,
+    "lng": 135.8539069,
+    "isClosed": ""
+  },
+  {
+    "id": "nara-art-2",
+    "type": "art",
+    "name": "中野美術館",
+    "prefecture": "奈良県",
+    "postCode": "631-0033",
+    "address": "奈良県奈良市あやめ池南9丁目946−2",
+    "city": "なら",
+    "image": "",
+    "url": "http://www.nakano-museum.jp/",
+    "latlng": "[34.6942734, 135.7559985]",
+    "lat": 34.6942734,
+    "lng": 135.7559985,
+    "isClosed": ""
+  },
+  {
+    "id": "nara-art-3",
+    "type": "art",
+    "name": "松伯美術館",
+    "prefecture": "奈良県",
+    "postCode": "631-0004",
+    "address": "奈良県奈良市登美ヶ丘2丁目1−4",
+    "city": "なら",
+    "image": "",
+    "url": "https://www.kintetsu-g-hd.co.jp/culture/shohaku/",
+    "latlng": "[34.7101614, 135.7477035]",
+    "lat": 34.7101614,
+    "lng": 135.7477035,
+    "isClosed": ""
+  },
+  {
+    "id": "nara-art-4",
+    "type": "art",
+    "name": "寧楽美術館",
+    "prefecture": "奈良県",
+    "postCode": "630-8208",
+    "address": "奈良県奈良市水門町74−1 寧楽美術館",
+    "city": "なら",
+    "image": "",
+    "url": "https://isuien.or.jp/museum",
+    "latlng": "[34.686038, 135.8371514]",
+    "lat": 34.686038,
+    "lng": 135.8371514,
+    "isClosed": ""
+  }
+]

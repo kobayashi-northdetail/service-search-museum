@@ -1,0 +1,17 @@
+[
+  {
+    "id": "saitama-aqua-1",
+    "type": "aquarium",
+    "name": "さいたま水族館",
+    "prefecture": "埼玉県",
+    "postCode": "348-0011",
+    "address": "埼玉県羽生市三田ヶ谷宝蔵寺751-1",
+    "city": "はにゅう",
+    "image": "",
+    "url": "http://www.parks.or.jp/suizokukan/",
+    "latlng": "[36.1710336, 139.5979644]",
+    "lat": 36.1710336,
+    "lng": 139.5979644,
+    "isClosed": ""
+  }
+]

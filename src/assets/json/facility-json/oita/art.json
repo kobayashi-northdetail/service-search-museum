@@ -1,0 +1,47 @@
+[
+  {
+    "id": "oita-art-1",
+    "type": "art",
+    "name": "大分市美術館",
+    "prefecture": "大分県",
+    "postCode": "870-0100",
+    "address": "大分県大分市上野865",
+    "city": "おおいた",
+    "image": "",
+    "url": "http://www.city.oita.oita.jp/bunkasports/bunka/bijutsukan/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  },
+  {
+    "id": "oita-art-2",
+    "type": "art",
+    "name": "二階堂美術館",
+    "prefecture": "大分県",
+    "postCode": "879-1505",
+    "address": "大分県速見郡日出町川崎837−6",
+    "city": "ひじ",
+    "image": "",
+    "url": "https://nikaidou-bijyutukan.com/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  },
+  {
+    "id": "oita-art-3",
+    "type": "art",
+    "name": "大分県立美術館",
+    "prefecture": "大分県",
+    "postCode": "870-0036",
+    "address": "大分県大分市寿町2−1",
+    "city": "おおいた",
+    "image": "",
+    "url": "https://www.opam.jp/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  }
+]

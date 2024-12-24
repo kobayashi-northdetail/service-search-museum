@@ -1,0 +1,17 @@
+[
+  {
+    "id": "miyagi-zoo-1",
+    "type": "zoo",
+    "name": "仙台市八木山動物公園",
+    "prefecture": "宮城県",
+    "postCode": "982-0801",
+    "address": "宮城県仙台市太白区八木山本町1丁目43",
+    "city": "せんだい",
+    "image": "/img/miyagi/museum/sendaishi-yagiyama-doubutsu-kouen.jpg",
+    "url": "https://www.city.sendai.jp/zoo/",
+    "latlng": "[38.2434348, 140.8440172]",
+    "lat": 38.2434348,
+    "lng": 140.8440172,
+    "isClosed": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ehime-art-1",
+    "type": "art",
+    "name": "今治市大三島美術館本館　今治市大三島美術館別館　今治市　岩田健　母と子のミュージアム　今治市大三島美術館別館　ところミュージアム大三島",
+    "prefecture": "愛媛県",
+    "postCode": "794-1309",
+    "address": "愛媛県今治市大三島町宗方5208−2",
+    "city": "いまばり",
+    "image": "",
+    "url": "https://www.city.imabari.ehime.jp/museum/omishima/",
+    "latlng": "[34.1944659, 132.9540979]",
+    "lat": 34.1944659,
+    "lng": 132.9540979,
+    "isClosed": ""
+  },
+  {
+    "id": "ehime-art-2",
+    "type": "art",
+    "name": "新居浜市美術館",
+    "prefecture": "愛媛県",
+    "postCode": "792-0812",
+    "address": "愛媛県新居浜市坂井町2丁目8−1",
+    "city": "にいはま",
+    "image": "",
+    "url": "https://www.city.niihama.lg.jp/soshiki/bijutu/",
+    "latlng": "[33.9494311, 133.2951425]",
+    "lat": 33.9494311,
+    "lng": 133.2951425,
+    "isClosed": ""
+  },
+  {
+    "id": "ehime-art-3",
+    "type": "art",
+    "name": "愛媛県美術館",
+    "prefecture": "愛媛県",
+    "postCode": "790-0007",
+    "address": "愛媛県松山市堀之内",
+    "city": "まつやま",
+    "image": "",
+    "url": "https://www.ehime-art.jp/",
+    "latlng": "[33.8418494, 132.7619603]",
+    "lat": 33.8418494,
+    "lng": 132.7619603,
+    "isClosed": ""
+  },
+  {
+    "id": "ehime-art-4",
+    "type": "art",
+    "name": "久万高原町立久万美術館",
+    "prefecture": "愛媛県",
+    "postCode": "791-1205",
+    "address": "愛媛県上浮穴郡久万高原町菅生2−1442−7",
+    "city": "くまこうげん",
+    "image": "",
+    "url": "https://www.kumakogen.jp/site/muse/",
+    "latlng": "[33.6620844, 132.9067591]",
+    "lat": 33.6620844,
+    "lng": 132.9067591,
+    "isClosed": ""
+  }
+]

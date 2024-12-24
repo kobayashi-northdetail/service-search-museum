@@ -1,0 +1,531 @@
+[
+  {
+    "id": "",
+    "type": "",
+    "name": "旭川市科学館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "旭川市宮前通東",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.asahikawa.hokkaido.jp/science/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "中原悌二郎記念旭川市彫刻美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "旭川市春光５条７丁目",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.asahikawa.hokkaido.jp/sculpture/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道立旭川美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "旭川市常磐公園内",
+    "city": "",
+    "image": "",
+    "url": "https://artmuseum.pref.hokkaido.lg.jp/abj"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "三浦綾子記念文学館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "旭川市神楽７条８丁目２番１５号",
+    "city": "",
+    "image": "",
+    "url": "https://www.hyouten.com/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "旭川市旭山動物園",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "旭川市東旭川町倉沼",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "だて歴史文化ミュージアム",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "伊達市梅本町57番地１",
+    "city": "",
+    "image": "",
+    "url": "https://date-museum.jp/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "荒井記念美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "岩内町字野束５０５番地",
+    "city": "",
+    "image": "",
+    "url": "http://www.iwanai-h.com/art/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "釧路市立美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "釧路市幣舞町４番２８号",
+    "city": "",
+    "image": "",
+    "url": "https://k-bijutsukan.net/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道立釧路芸術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "釧路市幸町４丁目１番５号",
+    "city": "",
+    "image": "",
+    "url": "https://www.kushiro-artmu.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "厚岸町海事記念館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "厚岸町真栄３丁目４番地",
+    "city": "",
+    "image": "",
+    "url": "http://edu.town.akkeshi.hokkaido.jp/kaiji/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "札幌市青少年科学館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市厚別区厚別中央１条５丁目",
+    "city": "",
+    "image": "",
+    "url": "https://www.ssc.slp.or.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道立近代美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市中央区北１条西１７丁目",
+    "city": "",
+    "image": "",
+    "url": "https://artmuseum.pref.hokkaido.lg.jp/knb/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道立文学館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市中央区中島公園１番４号",
+    "city": "",
+    "image": "",
+    "url": "http://www.h-bungaku.or.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道立三岸好太郎美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市中央区北２条西１５丁目",
+    "city": "",
+    "image": "",
+    "url": "https://artmuseum.pref.hokkaido.lg.jp/mkb/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "北一ヴェネツィア美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "小樽市堺町５番２７号",
+    "city": "",
+    "image": "",
+    "url": "https://venezia-museum.or.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "市立小樽美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "小樽市色内１丁目９番５号",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.otaru.lg.jp/categories/bunya/shisetsu/bunka_kanko/bijyutsukan/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "市立小樽文学館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "小樽市色内１丁目９番５号",
+    "city": "",
+    "image": "",
+    "url": "http://otarubungakusha.com/yakata"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "小樽芸術村",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "小樽市色内１丁目３番１号",
+    "city": "",
+    "image": "",
+    "url": "https://www.nitorihd.co.jp/otaru-art-base/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "帯広百年記念館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "帯広市緑ヶ丘２",
+    "city": "",
+    "image": "",
+    "url": "http://museum-obihiro.jp/occm/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道立帯広美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "帯広市緑ケ丘２番地",
+    "city": "",
+    "image": "",
+    "url": "https://artmuseum.pref.hokkaido.lg.jp/obj/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "苫小牧市科学センター",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "苫小牧市旭町３丁目１番１２号",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.tomakomai.hokkaido.jp/kagaku/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "函館市縄文文化交流センター",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "函館市臼尻町５５１番地１",
+    "city": "",
+    "image": "",
+    "url": "http://www.hjcc.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道立函館美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "函館市五稜郭町３７番６号",
+    "city": "",
+    "image": "",
+    "url": "https://artmuseum.pref.hokkaido.lg.jp/hbj"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "安田侃彫刻美術館アルテピアッツァ美唄",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "美唄市落合町栄町",
+    "city": "",
+    "image": "",
+    "url": "https://artepiazza.jp/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "北網圏北見文化センター",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "北見市公園町１",
+    "city": "",
+    "image": "",
+    "url": "https://hokumouken.com/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "網走市立美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "網走市南６条西１丁目",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.abashiri.hokkaido.jp/270kyoiku/040bizyutukan/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "旭川兵村記念館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "旭川市東旭川南１条６丁目３番２６号",
+    "city": "",
+    "image": "",
+    "url": "https://asahikawaheison.sakura.ne.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "神田日勝記念美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "河東郡鹿追町東町3-2",
+    "city": "",
+    "image": "",
+    "url": "http://kandanissho.com/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "福原記念美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "河東郡鹿追町泉町１丁目２１番地",
+    "city": "",
+    "image": "",
+    "url": "https://art-fukuhara.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "釧路市こども遊学館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "釧路市幸町10-2",
+    "city": "",
+    "image": "",
+    "url": "https://kodomoyugakukan.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "根室市歴史と自然の資料館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "根室市花咲港２０９番地",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.nemuro.hokkaido.jp/lifeinfo/kakuka/kyoikuiinkai/kyoikushiryokan/index.html"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "札幌芸術の森美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市南区芸術の森２－７５",
+    "city": "",
+    "image": "",
+    "url": "https://artpark.or.jp/shisetsu/sapporo-art-museum/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "札幌市円山動物園",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市中央区宮ケ丘３の１",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.sapporo.jp/zoo/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道開拓の村",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市厚別区厚別町小野幌５０番地１",
+    "city": "",
+    "image": "",
+    "url": "https://www.kaitaku.or.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "北海道大学北方生物圏フィールド科学センター植物園",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市中央区北３条西８丁目",
+    "city": "",
+    "image": "",
+    "url": "https://www.fsc.hokudai.ac.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "本郷新記念札幌彫刻美術館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "札幌市中央区宮の森４条１２丁目",
+    "city": "",
+    "image": "",
+    "url": "http://www.hongoshin-smos.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "室蘭市青少年科学館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "室蘭市本町４丁目８番１号",
+    "city": "",
+    "image": "",
+    "url": "https://www.kujiran.net/emiran/kagakukan/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "室蘭市民俗資料館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "室蘭市陣屋町２丁目４番地２５",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.muroran.lg.jp/main/shisetsu/minzoku.html"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "おたる水族館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "小樽市祝津３丁目３０３番地",
+    "city": "",
+    "image": "",
+    "url": "https://otaru-aq.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "ロイズミュージアム",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "石狩郡当別町ビトエ６４０－１５",
+    "city": "",
+    "image": "",
+    "url": "https://www.royce.com/cct/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "サケのふるさと千歳水族館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "千歳市花園２丁目３１２",
+    "city": "",
+    "image": "",
+    "url": "https://chitose-aq.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "帯広市動物園",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "帯広市字緑ヶ丘２",
+    "city": "",
+    "image": "",
+    "url": "https://www.city.obihiro.hokkaido.jp/zoo/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "登別マリンパークニクス",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "登別市登別東町１丁目２２番地",
+    "city": "",
+    "image": "",
+    "url": "https://www.nixe.co.jp/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "ウトナイ湖サンクチュアリ「ネイチャーセンター」",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "苫小牧市字植苗１５０－３",
+    "city": "",
+    "image": "",
+    "url": "http://park15.wakwak.com/~wbsjsc/011/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "仙台藩白老元陣屋資料館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "白老町陣屋町６８１－４",
+    "city": "",
+    "image": "",
+    "url": "http://www.town.shiraoi.hokkaido.jp/docs/2020062800019/"
+  },
+
+  {
+    "id": "",
+    "type": "",
+    "name": "東京大学大学院人文社会系研究科附属北海文化研究常呂実習施設",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "北見市常呂町字栄浦３８４",
+    "city": "",
+    "image": "",
+    "url": "https://www.l.u-tokyo.ac.jp/tokoro/"
+  },
+  {
+    "id": "",
+    "type": "",
+    "name": "えりも町郷土資料館・水産の館",
+    "prefecture": "北海道",
+    "postCode": "",
+    "address": "幌泉郡えりも町字新浜２０７番地の１",
+    "city": "",
+    "image": "",
+    "url": "https://www.town.erimo.lg.jp/horoizumi/index.html"
+  }
+]

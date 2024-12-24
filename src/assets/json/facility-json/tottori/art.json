@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tottori-art-1",
+    "type": "art",
+    "name": "鳥取民藝美術館",
+    "prefecture": "鳥取県",
+    "postCode": "680-0831",
+    "address": "鳥取県鳥取市栄町651",
+    "city": "とっとり",
+    "image": "",
+    "url": "https://mingei.exblog.jp/",
+    "latlng": "[35.4961709, 134.2270738]",
+    "lat": 35.4961709,
+    "lng": 134.2270738,
+    "isClosed": ""
+  },
+  {
+    "id": "tottori-art-2",
+    "type": "art",
+    "name": "渡辺美術館",
+    "prefecture": "鳥取県",
+    "postCode": "680-0003",
+    "address": "鳥取県鳥取市覚寺55",
+    "city": "とっとり",
+    "image": "",
+    "url": "https://watart.jp/",
+    "latlng": "[35.5207296, 134.2273544]",
+    "lat": 35.5207296,
+    "lng": 134.2273544,
+    "isClosed": ""
+  },
+  {
+    "id": "tottori-art-3",
+    "type": "art",
+    "name": "米子市美術館",
+    "prefecture": "鳥取県",
+    "postCode": "683-0822",
+    "address": "鳥取県米子市中町12 12番地",
+    "city": "よなご",
+    "image": "",
+    "url": "http://www.yonagobunka.net/y-moa/",
+    "latlng": "[35.42865640000001, 133.3310503]",
+    "lat": 35.42865640000001,
+    "lng": 133.3310503,
+    "isClosed": ""
+  }
+]

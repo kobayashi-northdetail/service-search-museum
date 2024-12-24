@@ -1,0 +1,47 @@
+[
+  {
+    "id": "miyazaki-art-1",
+    "type": "art",
+    "name": "高鍋町美術館",
+    "prefecture": "宮崎県",
+    "postCode": "884-0003",
+    "address": "宮崎県児湯郡高鍋町南高鍋6916−1",
+    "city": "たかなべ",
+    "image": "",
+    "url": "https://www.town.takanabe.lg.jp/museum/index.html",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  },
+  {
+    "id": "miyazaki-art-2",
+    "type": "art",
+    "name": "都城市立美術館",
+    "prefecture": "宮崎県",
+    "postCode": "885-0073",
+    "address": "宮崎県都城市姫城町7−18",
+    "city": "みやこのじょう",
+    "image": "",
+    "url": "https://www.city.miyakonojo.miyazaki.jp/site/artmuseum/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  },
+  {
+    "id": "miyazaki-art-3",
+    "type": "art",
+    "name": "宮崎県立美術館",
+    "prefecture": "宮崎県",
+    "postCode": "880-0031",
+    "address": "宮崎県宮崎市船塚3丁目210",
+    "city": "みやざき",
+    "image": "",
+    "url": "https://www.miyazaki-archive.jp/bijutsu/",
+    "latlng": "",
+    "lat": "",
+    "lng": "",
+    "isClosed": ""
+  }
+]

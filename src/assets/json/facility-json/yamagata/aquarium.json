@@ -1,0 +1,17 @@
+[
+  {
+    "id": "yamagata-aqua-1",
+    "type": "aquarium",
+    "name": "鶴岡市立加茂水族館",
+    "prefecture": "山形県",
+    "postCode": "997-1206",
+    "address": "山形県鶴岡市今泉大久保656",
+    "city": "つるおか",
+    "image": "",
+    "url": "http://www.shonai.ne.jp/kamo/",
+    "latlng": "[38.7623224, 139.7249208]",
+    "lat": 38.7623224,
+    "lng": 139.7249208,
+    "isClosed": ""
+  }
+]

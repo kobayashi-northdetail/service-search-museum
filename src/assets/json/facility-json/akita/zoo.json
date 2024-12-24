@@ -1,0 +1,17 @@
+[
+  {
+    "id": "akita-zoo-1",
+    "type": "zoo",
+    "name": "秋田市大森山動物園",
+    "prefecture": "秋田県",
+    "postCode": "010-1654",
+    "address": "秋田県秋田市浜田字潟端１５４",
+    "city": "あきた",
+    "image": "",
+    "url": "http://www.city.akita.akita.jp/city/in/zo/default.htm",
+    "latlng": "[39.6722932, 140.0767769]",
+    "lat": 39.6722932,
+    "lng": 140.0767769,
+    "isClosed": ""
+  }
+]

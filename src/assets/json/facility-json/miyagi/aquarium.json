@@ -1,0 +1,17 @@
+[
+  {
+    "id": "miyagi-aqua-1",
+    "type": "aquarium",
+    "name": "仙台うみの杜水族館",
+    "prefecture": "宮城県",
+    "postCode": "983-0013",
+    "address": "宮城県仙台市宮城野区中野4丁目6",
+    "city": "せんだい",
+    "image": "",
+    "url": "https://www.uminomori.jp/umino/index.html",
+    "latlng": "[38.2703709, 140.9826453]",
+    "lat": 38.2703709,
+    "lng": 140.9826453,
+    "isClosed": ""
+  }
+]

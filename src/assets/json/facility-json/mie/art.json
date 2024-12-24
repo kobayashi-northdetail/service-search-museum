@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mie-art-1",
+    "type": "art",
+    "name": "神宮美術館",
+    "prefecture": "三重県",
+    "postCode": "516-0016",
+    "address": "三重県伊勢市神田久志本町1754−1",
+    "city": "いせ",
+    "image": "",
+    "url": "https://museum.isejingu.or.jp/artmuseum/index.html",
+    "latlng": "[34.4858411, 136.7248157]",
+    "lat": 34.4858411,
+    "lng": 136.7248157,
+    "isClosed": ""
+  },
+  {
+    "id": "mie-art-2",
+    "type": "art",
+    "name": "三重県立美術館",
+    "prefecture": "三重県",
+    "postCode": "514-0007",
+    "address": "三重県津市大谷町11",
+    "city": "つ",
+    "image": "",
+    "url": "https://www.bunka.pref.mie.lg.jp/art-museum/index.shtm",
+    "latlng": "[34.7353098, 136.5014569]",
+    "lat": 34.7353098,
+    "lng": 136.5014569,
+    "isClosed": ""
+  },
+  {
+    "id": "mie-art-3",
+    "type": "art",
+    "name": "澄懐堂美術館",
+    "prefecture": "三重県",
+    "postCode": "512-1105",
+    "address": "三重県四日市市水沢町2011",
+    "city": "よっかいち",
+    "image": "",
+    "url": "https://chokaido.jp/",
+    "latlng": "[34.9766457, 136.4783907]",
+    "lat": 34.9766457,
+    "lng": 136.4783907,
+    "isClosed": ""
+  }
+]

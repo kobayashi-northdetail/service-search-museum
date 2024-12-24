@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tokushima-art-1",
+    "type": "art",
+    "name": "徳島県立近代美術館",
+    "prefecture": "徳島県",
+    "postCode": "770-8070",
+    "address": "徳島県徳島市八万町向寺山 文化の森総合公園内",
+    "city": "とくしま",
+    "image": "",
+    "url": "https://art.bunmori.tokushima.jp/",
+    "latlng": "[34.0406317, 134.5273225]",
+    "lat": 34.0406317,
+    "lng": 134.5273225,
+    "isClosed": ""
+  },
+  {
+    "id": "tokushima-art-2",
+    "type": "art",
+    "name": "大塚国際美術館",
+    "prefecture": "徳島県",
+    "postCode": "772-0053",
+    "address": "徳島県鳴門市鳴門町土佐泊浦福池65−1",
+    "city": "なると",
+    "image": "",
+    "url": "https://o-museum.or.jp/",
+    "latlng": "[34.2325459, 134.6381321]",
+    "lat": 34.2325459,
+    "lng": 134.6381321,
+    "isClosed": ""
+  }
+]
